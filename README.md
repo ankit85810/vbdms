@@ -43,7 +43,7 @@ Ensure you have the following installed on your system:
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/VBDMS.git
+git clone https://github.com/ankit85810/VBDMS.git
 cd VBDMS
 ```
 
